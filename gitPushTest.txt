@@ -1,0 +1,3 @@
+Hi there!
+
+Let's just write stuff, save it, then do git pull.
